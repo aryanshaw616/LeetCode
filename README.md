@@ -7,4 +7,5 @@ A repo for all LeetCode probems solved !
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/aryanshaw616/LeetCode/tree/master/0178-rank-scores) |
+| [1179-game-play-analysis-i](https://github.com/aryanshaw616/LeetCode/tree/master/1179-game-play-analysis-i) |
 <!---LeetCode Topics End-->
