@@ -11,6 +11,7 @@ A repo for all LeetCode probems solved !
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/aryanshaw616/LeetCode/tree/master/0283-move-zeroes) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/aryanshaw616/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/aryanshaw616/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Sliding Window
@@ -38,4 +39,8 @@ A repo for all LeetCode probems solved !
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/aryanshaw616/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/aryanshaw616/LeetCode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
