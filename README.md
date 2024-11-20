@@ -11,6 +11,7 @@ A repo for all LeetCode probems solved !
 ## Array
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aryanshaw616/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/aryanshaw616/LeetCode/tree/master/0283-move-zeroes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aryanshaw616/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0318-maximum-product-of-word-lengths](https://github.com/aryanshaw616/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
@@ -29,6 +30,7 @@ A repo for all LeetCode probems solved !
 ## Binary Search
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aryanshaw616/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aryanshaw616/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/aryanshaw616/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Queue
