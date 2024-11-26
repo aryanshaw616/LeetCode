@@ -114,4 +114,8 @@ A repo for all LeetCode probems solved !
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/aryanshaw616/LeetCode/tree/master/0787-sliding-puzzle) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
