@@ -172,4 +172,8 @@ A repo for all LeetCode probems solved !
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/aryanshaw616/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+## Math
+|  |
+| ------- |
+| [3371-harshad-number](https://github.com/aryanshaw616/LeetCode/tree/master/3371-harshad-number) |
 <!---LeetCode Topics End-->
