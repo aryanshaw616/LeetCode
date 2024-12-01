@@ -20,6 +20,7 @@ A repo for all LeetCode probems solved !
 | [0817-design-hashmap](https://github.com/aryanshaw616/LeetCode/tree/master/0817-design-hashmap) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/aryanshaw616/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aryanshaw616/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/aryanshaw616/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1755-defuse-the-bomb](https://github.com/aryanshaw616/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1972-rotating-the-box](https://github.com/aryanshaw616/LeetCode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/aryanshaw616/LeetCode/tree/master/2089-maximum-matrix-sum) |
@@ -43,6 +44,7 @@ A repo for all LeetCode probems solved !
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aryanshaw616/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aryanshaw616/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/aryanshaw616/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/aryanshaw616/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Queue
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A repo for all LeetCode probems solved !
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/aryanshaw616/LeetCode/tree/master/0283-move-zeroes) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/aryanshaw616/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1972-rotating-the-box](https://github.com/aryanshaw616/LeetCode/tree/master/1972-rotating-the-box) |
 ## Divide and Conquer
 |  |
@@ -91,6 +94,7 @@ A repo for all LeetCode probems solved !
 | ------- |
 | [0817-design-hashmap](https://github.com/aryanshaw616/LeetCode/tree/master/0817-design-hashmap) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aryanshaw616/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/aryanshaw616/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aryanshaw616/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/aryanshaw616/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## String
@@ -164,4 +168,8 @@ A repo for all LeetCode probems solved !
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/aryanshaw616/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
+## Sorting
+|  |
+| ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/aryanshaw616/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->
