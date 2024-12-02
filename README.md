@@ -69,6 +69,7 @@ A repo for all LeetCode probems solved !
 | ------- |
 | [0283-move-zeroes](https://github.com/aryanshaw616/LeetCode/tree/master/0283-move-zeroes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/aryanshaw616/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/aryanshaw616/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1972-rotating-the-box](https://github.com/aryanshaw616/LeetCode/tree/master/1972-rotating-the-box) |
 ## Divide and Conquer
 |  |
@@ -104,6 +105,7 @@ A repo for all LeetCode probems solved !
 |  |
 | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/aryanshaw616/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/aryanshaw616/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/aryanshaw616/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Bit Manipulation
 |  |
@@ -198,4 +200,8 @@ A repo for all LeetCode probems solved !
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aryanshaw616/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aryanshaw616/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## String Matching
+|  |
+| ------- |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/aryanshaw616/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 <!---LeetCode Topics End-->
