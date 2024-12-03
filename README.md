@@ -25,6 +25,7 @@ A repo for all LeetCode probems solved !
 | [1755-defuse-the-bomb](https://github.com/aryanshaw616/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1972-rotating-the-box](https://github.com/aryanshaw616/LeetCode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/aryanshaw616/LeetCode/tree/master/2089-maximum-matrix-sum) |
+| [2232-adding-spaces-to-a-string](https://github.com/aryanshaw616/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/aryanshaw616/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/aryanshaw616/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aryanshaw616/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -71,6 +72,7 @@ A repo for all LeetCode probems solved !
 | [1468-check-if-n-and-its-double-exist](https://github.com/aryanshaw616/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/aryanshaw616/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1972-rotating-the-box](https://github.com/aryanshaw616/LeetCode/tree/master/1972-rotating-the-box) |
+| [2232-adding-spaces-to-a-string](https://github.com/aryanshaw616/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A repo for all LeetCode probems solved !
 | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/aryanshaw616/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/aryanshaw616/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2232-adding-spaces-to-a-string](https://github.com/aryanshaw616/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/aryanshaw616/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Bit Manipulation
 |  |
@@ -124,6 +127,7 @@ A repo for all LeetCode probems solved !
 ## Simulation
 |  |
 | ------- |
+| [2232-adding-spaces-to-a-string](https://github.com/aryanshaw616/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/aryanshaw616/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Greedy
 |  |
