@@ -154,6 +154,7 @@ A repo for all LeetCode probems solved !
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/aryanshaw616/LeetCode/tree/master/0787-sliding-puzzle) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/aryanshaw616/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/aryanshaw616/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/aryanshaw616/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/aryanshaw616/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -194,6 +195,7 @@ A repo for all LeetCode probems solved !
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/aryanshaw616/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/aryanshaw616/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2201-valid-arrangement-of-pairs](https://github.com/aryanshaw616/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 ## Eulerian Circuit
 |  |
@@ -215,12 +217,14 @@ A repo for all LeetCode probems solved !
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aryanshaw616/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aryanshaw616/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aryanshaw616/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/aryanshaw616/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aryanshaw616/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aryanshaw616/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aryanshaw616/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/aryanshaw616/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
