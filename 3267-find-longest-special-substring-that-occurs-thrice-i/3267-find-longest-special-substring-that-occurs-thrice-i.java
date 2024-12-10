@@ -1,37 +1,56 @@
 class Solution {
-    public int maximumLength(String s) {
-        int maxLength = s.length()-2;
-        HashMap<String, Integer>mMap = new HashMap();
+    // Unopimised: Use hashmap<<char, count>, len>, find all char sequence with only 1 char, store count and len. Then, Traverses the map and finds the maximum length of sequences that appear at least three times.
+    // Optimised: Use binary search to find max length of longest special substring of s which occurs >=3
+    private String inputString;
+    private int stringLength;
+    public int maximumLength(String inputString) {
+        this.inputString = inputString;
+        this.stringLength = inputString.length();
 
-        int ans = -1;
+        int left = 0, right = stringLength;
 
-        while(maxLength > 0){
-            for(int i=0;i<=s.length()-maxLength;i++){
-                //System.out.println(s.substring(i, i+maxLength));
-                String str = s.substring(i, i+maxLength);
-                if(helper(str))mMap.put(str, mMap.getOrDefault(str, 0)+1);
-            }
-            //System.out.println();
-            maxLength--;
-        }
-
-        for(Map.Entry<String, Integer>entry:mMap.entrySet()){
-            if(entry.getValue() >= 3){
-                ans = Math.max(entry.getKey().length(), ans);
+        // Binary search to find the maximum substring length
+        while (left < right) {
+            int mid = (left + right + 1) >> 1;
+            if (isCriteriaSatisfied(mid)) {
+                left = mid;
+            } else {
+                right = mid - 1;
             }
         }
 
-        return ans;
-
+        // If unable to find such a length, return -1. Otherwise, return the length found.
+        return left == 0 ? -1 : left;
     }
 
-    public boolean helper(String s) {
-    for (int i = 1; i < s.length(); i++) {
-        if (s.charAt(i) != s.charAt(0)) {
-            return false;
+    // Helper method to check if a specific length satisfies the criteria
+    private boolean isCriteriaSatisfied(int targetLength) {
+        int[] frequencyCounter = new int[26];
+
+        // Iterate over the string to check the frequency of each character
+        for (int i = 0; i < stringLength;) {
+            // Find the end index of the current character sequence
+            int endIndex = i + 1;
+            while (endIndex < stringLength && inputString.charAt(endIndex) == inputString.charAt(i)) {
+                endIndex++;
+            }
+
+            // Calculate the character's index in the alphabet
+            int charIndex = inputString.charAt(i) - 'a';
+
+            // Update the frequency counter for each character based on the criteria
+            frequencyCounter[charIndex] += Math.max(0, endIndex - i - targetLength + 1);
+
+            // If any character occurs >= 3 times after removing `targetLength` elements, return true
+            if (frequencyCounter[charIndex] >= 3) {
+                return true;
+            }
+
+            // Move to the next different character
+            i = endIndex;
         }
-    }
-    return true;
-}
 
+        // If no character meets the criteria, return false
+        return false;
+    }
 }
