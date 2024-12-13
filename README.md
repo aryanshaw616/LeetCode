@@ -228,6 +228,7 @@ A repo for all LeetCode probems solved !
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/aryanshaw616/LeetCode/tree/master/0292-nim-game) |
 | [3371-harshad-number](https://github.com/aryanshaw616/LeetCode/tree/master/3371-harshad-number) |
 ## Tree
 |  |
@@ -261,4 +262,12 @@ A repo for all LeetCode probems solved !
 |  |
 | ------- |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aryanshaw616/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/aryanshaw616/LeetCode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/aryanshaw616/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
