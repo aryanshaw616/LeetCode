@@ -6,6 +6,7 @@ A repo for all LeetCode probems solved !
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/aryanshaw616/LeetCode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/aryanshaw616/LeetCode/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/aryanshaw616/LeetCode/tree/master/0178-rank-scores) |
 | [1179-game-play-analysis-i](https://github.com/aryanshaw616/LeetCode/tree/master/1179-game-play-analysis-i) |
