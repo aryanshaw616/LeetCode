@@ -44,6 +44,7 @@ A repo for all LeetCode probems solved !
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/aryanshaw616/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/aryanshaw616/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/aryanshaw616/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/aryanshaw616/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A repo for all LeetCode probems solved !
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/aryanshaw616/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/aryanshaw616/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/aryanshaw616/LeetCode/tree/master/2868-continuous-subarrays) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/aryanshaw616/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A repo for all LeetCode probems solved !
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/aryanshaw616/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/aryanshaw616/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/aryanshaw616/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/aryanshaw616/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
 |  |
 | ------- |
@@ -246,6 +249,7 @@ A repo for all LeetCode probems solved !
 | ------- |
 | [0292-nim-game](https://github.com/aryanshaw616/LeetCode/tree/master/0292-nim-game) |
 | [3371-harshad-number](https://github.com/aryanshaw616/LeetCode/tree/master/3371-harshad-number) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/aryanshaw616/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Tree
 |  |
 | ------- |
