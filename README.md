@@ -244,6 +244,7 @@ A repo for all LeetCode probems solved !
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/aryanshaw616/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2201-valid-arrangement-of-pairs](https://github.com/aryanshaw616/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/aryanshaw616/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/aryanshaw616/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -272,6 +273,7 @@ A repo for all LeetCode probems solved !
 | [0783-search-in-a-binary-search-tree](https://github.com/aryanshaw616/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/aryanshaw616/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/aryanshaw616/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/aryanshaw616/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
