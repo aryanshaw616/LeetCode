@@ -26,6 +26,7 @@ A repo for all LeetCode probems solved !
 | [0817-design-hashmap](https://github.com/aryanshaw616/LeetCode/tree/master/0817-design-hashmap) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/aryanshaw616/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aryanshaw616/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/aryanshaw616/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/aryanshaw616/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1524-string-matching-in-an-array](https://github.com/aryanshaw616/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1755-defuse-the-bomb](https://github.com/aryanshaw616/LeetCode/tree/master/1755-defuse-the-bomb) |
