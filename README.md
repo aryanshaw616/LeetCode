@@ -27,6 +27,7 @@ A repo for all LeetCode probems solved !
 | [0787-sliding-puzzle](https://github.com/aryanshaw616/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0817-design-hashmap](https://github.com/aryanshaw616/LeetCode/tree/master/0817-design-hashmap) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/aryanshaw616/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1025-minimum-cost-for-tickets](https://github.com/aryanshaw616/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/aryanshaw616/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aryanshaw616/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/aryanshaw616/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -259,6 +260,7 @@ A repo for all LeetCode probems solved !
 | [0119-pascals-triangle-ii](https://github.com/aryanshaw616/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0494-target-sum](https://github.com/aryanshaw616/LeetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/aryanshaw616/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [1025-minimum-cost-for-tickets](https://github.com/aryanshaw616/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/aryanshaw616/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/aryanshaw616/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2164-two-best-non-overlapping-events](https://github.com/aryanshaw616/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
