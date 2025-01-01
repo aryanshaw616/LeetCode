@@ -107,6 +107,7 @@ A repo for all LeetCode probems solved !
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/aryanshaw616/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/aryanshaw616/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A repo for all LeetCode probems solved !
 | [0345-reverse-vowels-of-a-string](https://github.com/aryanshaw616/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0420-strong-password-checker](https://github.com/aryanshaw616/LeetCode/tree/master/0420-strong-password-checker) |
 | [1524-string-matching-in-an-array](https://github.com/aryanshaw616/LeetCode/tree/master/1524-string-matching-in-an-array) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/aryanshaw616/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/aryanshaw616/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/aryanshaw616/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1894-merge-strings-alternately](https://github.com/aryanshaw616/LeetCode/tree/master/1894-merge-strings-alternately) |
