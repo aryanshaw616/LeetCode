@@ -33,6 +33,7 @@ A repo for all LeetCode probems solved !
 | [1063-best-sightseeing-pair](https://github.com/aryanshaw616/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aryanshaw616/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/aryanshaw616/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1396-count-servers-that-communicate](https://github.com/aryanshaw616/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/aryanshaw616/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aryanshaw616/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/aryanshaw616/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -223,6 +224,7 @@ A repo for all LeetCode probems solved !
 | [0407-trapping-rain-water-ii](https://github.com/aryanshaw616/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/aryanshaw616/LeetCode/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aryanshaw616/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1396-count-servers-that-communicate](https://github.com/aryanshaw616/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/aryanshaw616/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/aryanshaw616/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/aryanshaw616/LeetCode/tree/master/1972-rotating-the-box) |
@@ -257,6 +259,7 @@ A repo for all LeetCode probems solved !
 | [0515-find-largest-value-in-each-tree-row](https://github.com/aryanshaw616/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/aryanshaw616/LeetCode/tree/master/0787-sliding-puzzle) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/aryanshaw616/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1396-count-servers-that-communicate](https://github.com/aryanshaw616/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/aryanshaw616/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/aryanshaw616/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/aryanshaw616/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -314,6 +317,7 @@ A repo for all LeetCode probems solved !
 | [0515-find-largest-value-in-each-tree-row](https://github.com/aryanshaw616/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/aryanshaw616/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/aryanshaw616/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1396-count-servers-that-communicate](https://github.com/aryanshaw616/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2201-valid-arrangement-of-pairs](https://github.com/aryanshaw616/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/aryanshaw616/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/aryanshaw616/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -381,6 +385,7 @@ A repo for all LeetCode probems solved !
 ## Counting
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/aryanshaw616/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aryanshaw616/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/aryanshaw616/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1848-sum-of-unique-elements](https://github.com/aryanshaw616/LeetCode/tree/master/1848-sum-of-unique-elements) |
@@ -420,4 +425,8 @@ A repo for all LeetCode probems solved !
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/aryanshaw616/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/aryanshaw616/LeetCode/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
