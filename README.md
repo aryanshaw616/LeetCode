@@ -258,6 +258,7 @@ A repo for all LeetCode probems solved !
 | [0407-trapping-rain-water-ii](https://github.com/aryanshaw616/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/aryanshaw616/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/aryanshaw616/LeetCode/tree/master/0787-sliding-puzzle) |
+| [0820-find-eventual-safe-states](https://github.com/aryanshaw616/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/aryanshaw616/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/aryanshaw616/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/aryanshaw616/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -271,6 +272,7 @@ A repo for all LeetCode probems solved !
 ## Graph
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/aryanshaw616/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/aryanshaw616/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2201-valid-arrangement-of-pairs](https://github.com/aryanshaw616/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/aryanshaw616/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -316,6 +318,7 @@ A repo for all LeetCode probems solved !
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/aryanshaw616/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/aryanshaw616/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0820-find-eventual-safe-states](https://github.com/aryanshaw616/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/aryanshaw616/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/aryanshaw616/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2201-valid-arrangement-of-pairs](https://github.com/aryanshaw616/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
@@ -429,4 +432,8 @@ A repo for all LeetCode probems solved !
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/aryanshaw616/LeetCode/tree/master/1396-count-servers-that-communicate) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/aryanshaw616/LeetCode/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
