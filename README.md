@@ -43,6 +43,7 @@ A repo for all LeetCode probems solved !
 | [1755-defuse-the-bomb](https://github.com/aryanshaw616/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1848-sum-of-unique-elements](https://github.com/aryanshaw616/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1876-map-of-highest-peak](https://github.com/aryanshaw616/LeetCode/tree/master/1876-map-of-highest-peak) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/aryanshaw616/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/aryanshaw616/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/aryanshaw616/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1972-rotating-the-box](https://github.com/aryanshaw616/LeetCode/tree/master/1972-rotating-the-box) |
