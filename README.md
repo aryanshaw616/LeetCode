@@ -34,6 +34,7 @@ A repo for all LeetCode probems solved !
 | [1063-best-sightseeing-pair](https://github.com/aryanshaw616/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aryanshaw616/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/aryanshaw616/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1364-tuple-with-same-product](https://github.com/aryanshaw616/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/aryanshaw616/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/aryanshaw616/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aryanshaw616/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -181,6 +182,7 @@ A repo for all LeetCode probems solved !
 | [0817-design-hashmap](https://github.com/aryanshaw616/LeetCode/tree/master/0817-design-hashmap) |
 | [0952-word-subsets](https://github.com/aryanshaw616/LeetCode/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aryanshaw616/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1364-tuple-with-same-product](https://github.com/aryanshaw616/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/aryanshaw616/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aryanshaw616/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/aryanshaw616/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
@@ -409,6 +411,7 @@ A repo for all LeetCode probems solved !
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/aryanshaw616/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/aryanshaw616/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aryanshaw616/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/aryanshaw616/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
