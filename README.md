@@ -160,6 +160,7 @@ A repo for all LeetCode probems solved !
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/aryanshaw616/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/aryanshaw616/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1972-rotating-the-box](https://github.com/aryanshaw616/LeetCode/tree/master/1972-rotating-the-box) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/aryanshaw616/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/aryanshaw616/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/aryanshaw616/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/aryanshaw616/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -340,6 +341,7 @@ A repo for all LeetCode probems solved !
 | [0160-intersection-of-two-linked-lists](https://github.com/aryanshaw616/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0817-design-hashmap](https://github.com/aryanshaw616/LeetCode/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/aryanshaw616/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/aryanshaw616/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
