@@ -387,6 +387,7 @@ A repo for all LeetCode probems solved !
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/aryanshaw616/LeetCode/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/aryanshaw616/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0494-target-sum](https://github.com/aryanshaw616/LeetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/aryanshaw616/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -437,6 +438,7 @@ A repo for all LeetCode probems solved !
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/aryanshaw616/LeetCode/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/aryanshaw616/LeetCode/tree/master/0292-nim-game) |
 | [1477-product-of-the-last-k-numbers](https://github.com/aryanshaw616/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aryanshaw616/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -572,4 +574,8 @@ A repo for all LeetCode probems solved !
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/aryanshaw616/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/aryanshaw616/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
