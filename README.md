@@ -96,6 +96,7 @@ A repo for all LeetCode probems solved !
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aryanshaw616/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/aryanshaw616/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/aryanshaw616/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/aryanshaw616/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aryanshaw616/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/aryanshaw616/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2868-continuous-subarrays](https://github.com/aryanshaw616/LeetCode/tree/master/2868-continuous-subarrays) |
@@ -263,6 +264,7 @@ A repo for all LeetCode probems solved !
 | [2300-construct-string-with-repeat-limit](https://github.com/aryanshaw616/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/aryanshaw616/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/aryanshaw616/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/aryanshaw616/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/aryanshaw616/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/aryanshaw616/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/aryanshaw616/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
