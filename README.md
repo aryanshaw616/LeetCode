@@ -24,6 +24,7 @@ A repo for all LeetCode probems solved !
 | [0407-trapping-rain-water-ii](https://github.com/aryanshaw616/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/aryanshaw616/LeetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/aryanshaw616/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0747-min-cost-climbing-stairs](https://github.com/aryanshaw616/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/aryanshaw616/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/aryanshaw616/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0817-design-hashmap](https://github.com/aryanshaw616/LeetCode/tree/master/0817-design-hashmap) |
@@ -393,6 +394,7 @@ A repo for all LeetCode probems solved !
 | [0119-pascals-triangle-ii](https://github.com/aryanshaw616/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0494-target-sum](https://github.com/aryanshaw616/LeetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/aryanshaw616/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0747-min-cost-climbing-stairs](https://github.com/aryanshaw616/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/aryanshaw616/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/aryanshaw616/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/aryanshaw616/LeetCode/tree/master/1063-best-sightseeing-pair) |
