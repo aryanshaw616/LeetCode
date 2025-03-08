@@ -279,6 +279,7 @@ A repo for all LeetCode probems solved !
 | ------- |
 | [0191-number-of-1-bits](https://github.com/aryanshaw616/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0318-maximum-product-of-word-lengths](https://github.com/aryanshaw616/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/aryanshaw616/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aryanshaw616/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/aryanshaw616/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/aryanshaw616/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -448,6 +449,7 @@ A repo for all LeetCode probems solved !
 | ------- |
 | [0070-climbing-stairs](https://github.com/aryanshaw616/LeetCode/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/aryanshaw616/LeetCode/tree/master/0292-nim-game) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/aryanshaw616/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanshaw616/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/aryanshaw616/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aryanshaw616/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
