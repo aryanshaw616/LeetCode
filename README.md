@@ -258,6 +258,7 @@ A repo for all LeetCode probems solved !
 | [0318-maximum-product-of-word-lengths](https://github.com/aryanshaw616/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aryanshaw616/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0420-strong-password-checker](https://github.com/aryanshaw616/LeetCode/tree/master/0420-strong-password-checker) |
+| [0516-longest-palindromic-subsequence](https://github.com/aryanshaw616/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0952-word-subsets](https://github.com/aryanshaw616/LeetCode/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/aryanshaw616/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/aryanshaw616/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -413,6 +414,7 @@ A repo for all LeetCode probems solved !
 | [0198-house-robber](https://github.com/aryanshaw616/LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/aryanshaw616/LeetCode/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/aryanshaw616/LeetCode/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/aryanshaw616/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/aryanshaw616/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0747-min-cost-climbing-stairs](https://github.com/aryanshaw616/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/aryanshaw616/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
