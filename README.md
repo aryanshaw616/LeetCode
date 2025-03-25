@@ -103,6 +103,7 @@ A repo for all LeetCode probems solved !
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/aryanshaw616/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/aryanshaw616/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3643-zero-array-transformation-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/aryanshaw616/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Sliding Window
 |  |
 | ------- |
@@ -488,6 +489,7 @@ A repo for all LeetCode probems solved !
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/aryanshaw616/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/aryanshaw616/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aryanshaw616/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/aryanshaw616/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Math
 |  |
 | ------- |
