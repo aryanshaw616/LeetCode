@@ -124,6 +124,7 @@ A repo for all LeetCode probems solved !
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/aryanshaw616/LeetCode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aryanshaw616/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aryanshaw616/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aryanshaw616/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -493,6 +494,7 @@ A repo for all LeetCode probems solved !
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/aryanshaw616/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/aryanshaw616/LeetCode/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/aryanshaw616/LeetCode/tree/master/0292-nim-game) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aryanshaw616/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
