@@ -197,6 +197,7 @@ A repo for all LeetCode probems solved !
 | [0160-intersection-of-two-linked-lists](https://github.com/aryanshaw616/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/aryanshaw616/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aryanshaw616/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0768-partition-labels](https://github.com/aryanshaw616/LeetCode/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/aryanshaw616/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/aryanshaw616/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/aryanshaw616/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -241,6 +242,7 @@ A repo for all LeetCode probems solved !
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aryanshaw616/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aryanshaw616/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0768-partition-labels](https://github.com/aryanshaw616/LeetCode/tree/master/0768-partition-labels) |
 | [0817-design-hashmap](https://github.com/aryanshaw616/LeetCode/tree/master/0817-design-hashmap) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/aryanshaw616/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/aryanshaw616/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -283,6 +285,7 @@ A repo for all LeetCode probems solved !
 | [0345-reverse-vowels-of-a-string](https://github.com/aryanshaw616/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0420-strong-password-checker](https://github.com/aryanshaw616/LeetCode/tree/master/0420-strong-password-checker) |
 | [0516-longest-palindromic-subsequence](https://github.com/aryanshaw616/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
+| [0768-partition-labels](https://github.com/aryanshaw616/LeetCode/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/aryanshaw616/LeetCode/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/aryanshaw616/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/aryanshaw616/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -363,6 +366,7 @@ A repo for all LeetCode probems solved !
 |  |
 | ------- |
 | [0420-strong-password-checker](https://github.com/aryanshaw616/LeetCode/tree/master/0420-strong-password-checker) |
+| [0768-partition-labels](https://github.com/aryanshaw616/LeetCode/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/aryanshaw616/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1502-construct-k-palindrome-strings](https://github.com/aryanshaw616/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/aryanshaw616/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
