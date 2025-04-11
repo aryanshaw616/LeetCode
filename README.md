@@ -541,6 +541,7 @@ A repo for all LeetCode probems solved !
 | [2610-closest-prime-numbers-in-range](https://github.com/aryanshaw616/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/aryanshaw616/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/aryanshaw616/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [2998-count-symmetric-integers](https://github.com/aryanshaw616/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/aryanshaw616/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/aryanshaw616/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/aryanshaw616/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -690,4 +691,8 @@ A repo for all LeetCode probems solved !
 | ------- |
 | [0278-first-bad-version](https://github.com/aryanshaw616/LeetCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/aryanshaw616/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/aryanshaw616/LeetCode/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
