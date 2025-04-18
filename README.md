@@ -297,6 +297,7 @@ A repo for all LeetCode probems solved !
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aryanshaw616/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0038-count-and-say](https://github.com/aryanshaw616/LeetCode/tree/master/0038-count-and-say) |
 | [0318-maximum-product-of-word-lengths](https://github.com/aryanshaw616/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aryanshaw616/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0420-strong-password-checker](https://github.com/aryanshaw616/LeetCode/tree/master/0420-strong-password-checker) |
