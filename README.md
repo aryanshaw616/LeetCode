@@ -515,6 +515,7 @@ A repo for all LeetCode probems solved !
 | [0516-longest-palindromic-subsequence](https://github.com/aryanshaw616/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/aryanshaw616/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0747-min-cost-climbing-stairs](https://github.com/aryanshaw616/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0806-domino-and-tromino-tiling](https://github.com/aryanshaw616/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/aryanshaw616/LeetCode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/aryanshaw616/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/aryanshaw616/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
