@@ -331,6 +331,7 @@ A repo for all LeetCode probems solved !
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/aryanshaw616/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3548-find-the-count-of-good-integers](https://github.com/aryanshaw616/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/aryanshaw616/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## String
 |  |
@@ -375,6 +376,7 @@ A repo for all LeetCode probems solved !
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/aryanshaw616/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/aryanshaw616/LeetCode/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -541,6 +543,7 @@ A repo for all LeetCode probems solved !
 | [2415-count-the-number-of-ideal-arrays](https://github.com/aryanshaw616/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2562-count-ways-to-build-good-strings](https://github.com/aryanshaw616/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/aryanshaw616/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -616,6 +619,7 @@ A repo for all LeetCode probems solved !
 | [3371-harshad-number](https://github.com/aryanshaw616/LeetCode/tree/master/3371-harshad-number) |
 | [3548-find-the-count-of-good-integers](https://github.com/aryanshaw616/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/aryanshaw616/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Tree
 |  |
 | ------- |
@@ -682,6 +686,7 @@ A repo for all LeetCode probems solved !
 | [2308-divide-array-into-equal-pairs](https://github.com/aryanshaw616/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/aryanshaw616/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aryanshaw616/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Brainteaser
 |  |
 | ------- |
