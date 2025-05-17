@@ -14,6 +14,7 @@ A repo for all LeetCode probems solved !
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/aryanshaw616/LeetCode/tree/master/0051-n-queens) |
+| [0075-sort-colors](https://github.com/aryanshaw616/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aryanshaw616/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aryanshaw616/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/aryanshaw616/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -235,6 +236,7 @@ A repo for all LeetCode probems solved !
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/aryanshaw616/LeetCode/tree/master/0075-sort-colors) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aryanshaw616/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/aryanshaw616/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aryanshaw616/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -575,6 +577,7 @@ A repo for all LeetCode probems solved !
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/aryanshaw616/LeetCode/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/aryanshaw616/LeetCode/tree/master/0164-maximum-gap) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanshaw616/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0780-max-chunks-to-make-sorted](https://github.com/aryanshaw616/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
