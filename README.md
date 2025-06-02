@@ -18,6 +18,7 @@ A repo for all LeetCode probems solved !
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aryanshaw616/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aryanshaw616/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/aryanshaw616/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0135-candy](https://github.com/aryanshaw616/LeetCode/tree/master/0135-candy) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aryanshaw616/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/aryanshaw616/LeetCode/tree/master/0164-maximum-gap) |
 | [0198-house-robber](https://github.com/aryanshaw616/LeetCode/tree/master/0198-house-robber) |
@@ -431,6 +432,7 @@ A repo for all LeetCode probems solved !
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/aryanshaw616/LeetCode/tree/master/0135-candy) |
 | [0420-strong-password-checker](https://github.com/aryanshaw616/LeetCode/tree/master/0420-strong-password-checker) |
 | [0768-partition-labels](https://github.com/aryanshaw616/LeetCode/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/aryanshaw616/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
