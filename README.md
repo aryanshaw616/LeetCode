@@ -557,6 +557,7 @@ A repo for all LeetCode probems solved !
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/aryanshaw616/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/aryanshaw616/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/aryanshaw616/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0820-find-eventual-safe-states](https://github.com/aryanshaw616/LeetCode/tree/master/0820-find-eventual-safe-states) |
@@ -739,6 +740,7 @@ A repo for all LeetCode probems solved !
 ## Trie
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/aryanshaw616/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/aryanshaw616/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
