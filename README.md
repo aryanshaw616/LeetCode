@@ -48,6 +48,7 @@ A repo for all LeetCode probems solved !
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/aryanshaw616/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1293-three-consecutive-odds](https://github.com/aryanshaw616/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/aryanshaw616/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/aryanshaw616/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/aryanshaw616/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/aryanshaw616/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aryanshaw616/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -368,6 +369,7 @@ A repo for all LeetCode probems solved !
 | [1160-letter-tile-possibilities](https://github.com/aryanshaw616/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/aryanshaw616/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/aryanshaw616/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/aryanshaw616/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aryanshaw616/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/aryanshaw616/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aryanshaw616/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -584,6 +586,7 @@ A repo for all LeetCode probems solved !
 | [0854-making-a-large-island](https://github.com/aryanshaw616/LeetCode/tree/master/0854-making-a-large-island) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/aryanshaw616/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/aryanshaw616/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/aryanshaw616/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aryanshaw616/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/aryanshaw616/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/aryanshaw616/LeetCode/tree/master/1558-course-schedule-iv) |
@@ -767,6 +770,7 @@ A repo for all LeetCode probems solved !
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/aryanshaw616/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/aryanshaw616/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/aryanshaw616/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/aryanshaw616/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
