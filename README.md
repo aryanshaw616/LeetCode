@@ -142,6 +142,7 @@ A repo for all LeetCode probems solved !
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/aryanshaw616/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/aryanshaw616/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/aryanshaw616/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/aryanshaw616/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sliding Window
 |  |
 | ------- |
@@ -354,6 +355,7 @@ A repo for all LeetCode probems solved !
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/aryanshaw616/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/aryanshaw616/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
 |  |
 | ------- |
@@ -476,6 +478,7 @@ A repo for all LeetCode probems solved !
 | [3001-apply-operations-to-maximize-score](https://github.com/aryanshaw616/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aryanshaw616/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/aryanshaw616/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/aryanshaw616/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Breadth-First Search
 |  |
 | ------- |
