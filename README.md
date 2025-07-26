@@ -143,6 +143,7 @@ A repo for all LeetCode probems solved !
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/aryanshaw616/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/aryanshaw616/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/aryanshaw616/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/aryanshaw616/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Sliding Window
 |  |
 | ------- |
@@ -240,6 +241,7 @@ A repo for all LeetCode probems solved !
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aryanshaw616/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/aryanshaw616/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -290,6 +292,7 @@ A repo for all LeetCode probems solved !
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aryanshaw616/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2280-count-good-triplets-in-an-array](https://github.com/aryanshaw616/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/aryanshaw616/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/aryanshaw616/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Merge Sort
 |  |
 | ------- |
@@ -834,6 +837,7 @@ A repo for all LeetCode probems solved !
 | [2998-count-symmetric-integers](https://github.com/aryanshaw616/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/aryanshaw616/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/aryanshaw616/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Combinatorics
 |  |
 | ------- |
