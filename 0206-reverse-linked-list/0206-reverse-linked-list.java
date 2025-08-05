@@ -9,20 +9,17 @@
  * }
  */
 class Solution {
-    public ListNode one;
-    public ListNode two;
-    public ListNode three;
     public ListNode reverseList(ListNode head) {
-        one=null;
-        two=head;
-     return reccurencesearch(one,two);     
-    }
-    public ListNode reccurencesearch(ListNode one,ListNode two){       
-        if(two ==null){
-            return one; 
+        ListNode prev=null;
+        ListNode curr =head;
+        ListNode temp=null;
+        while(curr!=null)
+        {
+            temp=curr.next;
+            curr.next=prev;
+            prev=curr;
+            curr=temp;
         }
-        three=two.next;
-        two.next=one;
-        return reccurencesearch(two,three);     
-    }    
+            return prev;
+    }
 }
