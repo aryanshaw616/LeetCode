@@ -417,6 +417,7 @@ A repo for all LeetCode probems solved !
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/aryanshaw616/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/aryanshaw616/LeetCode/tree/master/0231-power-of-two) |
 | [0318-maximum-product-of-word-lengths](https://github.com/aryanshaw616/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aryanshaw616/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aryanshaw616/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -651,6 +652,7 @@ A repo for all LeetCode probems solved !
 | ------- |
 | [0069-sqrtx](https://github.com/aryanshaw616/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/aryanshaw616/LeetCode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/aryanshaw616/LeetCode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/aryanshaw616/LeetCode/tree/master/0292-nim-game) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aryanshaw616/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanshaw616/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -726,6 +728,7 @@ A repo for all LeetCode probems solved !
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aryanshaw616/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/aryanshaw616/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/aryanshaw616/LeetCode/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/aryanshaw616/LeetCode/tree/master/2050-count-good-numbers) |
 ## Counting
 |  |
