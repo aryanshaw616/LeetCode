@@ -255,6 +255,7 @@ A repo for all LeetCode probems solved !
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/aryanshaw616/LeetCode/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/aryanshaw616/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aryanshaw616/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aryanshaw616/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/aryanshaw616/LeetCode/tree/master/0283-move-zeroes) |
@@ -311,6 +312,7 @@ A repo for all LeetCode probems solved !
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aryanshaw616/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0141-linked-list-cycle](https://github.com/aryanshaw616/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aryanshaw616/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aryanshaw616/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0768-partition-labels](https://github.com/aryanshaw616/LeetCode/tree/master/0768-partition-labels) |
@@ -539,6 +541,7 @@ A repo for all LeetCode probems solved !
 | [0021-merge-two-sorted-lists](https://github.com/aryanshaw616/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/aryanshaw616/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aryanshaw616/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0141-linked-list-cycle](https://github.com/aryanshaw616/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aryanshaw616/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aryanshaw616/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/aryanshaw616/LeetCode/tree/master/0206-reverse-linked-list) |
