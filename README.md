@@ -145,6 +145,7 @@ A repo for all LeetCode probems solved !
 | [3643-zero-array-transformation-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/aryanshaw616/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/aryanshaw616/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/aryanshaw616/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/aryanshaw616/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/aryanshaw616/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/aryanshaw616/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -438,6 +439,7 @@ A repo for all LeetCode probems solved !
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/aryanshaw616/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/aryanshaw616/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aryanshaw616/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/aryanshaw616/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Matrix
 |  |
 | ------- |
@@ -696,6 +698,7 @@ A repo for all LeetCode probems solved !
 | [3548-find-the-count-of-good-integers](https://github.com/aryanshaw616/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/aryanshaw616/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/aryanshaw616/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Tree
 |  |
 | ------- |
