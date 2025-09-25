@@ -19,6 +19,7 @@ A repo for all LeetCode probems solved !
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aryanshaw616/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/aryanshaw616/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aryanshaw616/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/aryanshaw616/LeetCode/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/aryanshaw616/LeetCode/tree/master/0135-candy) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aryanshaw616/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/aryanshaw616/LeetCode/tree/master/0164-maximum-gap) |
@@ -603,6 +604,7 @@ A repo for all LeetCode probems solved !
 | [0070-climbing-stairs](https://github.com/aryanshaw616/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/aryanshaw616/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aryanshaw616/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/aryanshaw616/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/aryanshaw616/LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/aryanshaw616/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/aryanshaw616/LeetCode/tree/master/0416-partition-equal-subset-sum) |
