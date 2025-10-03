@@ -695,6 +695,7 @@ A repo for all LeetCode probems solved !
 | [0342-power-of-four](https://github.com/aryanshaw616/LeetCode/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aryanshaw616/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanshaw616/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0728-self-dividing-numbers](https://github.com/aryanshaw616/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0797-rabbits-in-forest](https://github.com/aryanshaw616/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aryanshaw616/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/aryanshaw616/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
