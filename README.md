@@ -147,6 +147,7 @@ A repo for all LeetCode probems solved !
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/aryanshaw616/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/aryanshaw616/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/aryanshaw616/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/aryanshaw616/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -176,6 +177,7 @@ A repo for all LeetCode probems solved !
 | [3483-alternating-groups-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/aryanshaw616/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Binary Search
 |  |
@@ -204,6 +206,7 @@ A repo for all LeetCode probems solved !
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/aryanshaw616/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/aryanshaw616/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aryanshaw616/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Queue
 |  |
@@ -256,6 +259,7 @@ A repo for all LeetCode probems solved !
 | [2691-count-vowel-strings-in-ranges](https://github.com/aryanshaw616/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/aryanshaw616/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aryanshaw616/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/aryanshaw616/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -696,6 +700,7 @@ A repo for all LeetCode probems solved !
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aryanshaw616/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/aryanshaw616/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/aryanshaw616/LeetCode/tree/master/3321-type-of-triangle) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/aryanshaw616/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Math
 |  |
