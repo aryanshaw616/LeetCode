@@ -158,6 +158,7 @@ A repo for all LeetCode probems solved !
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/aryanshaw616/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/aryanshaw616/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/aryanshaw616/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/aryanshaw616/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sliding Window
 |  |
 | ------- |
@@ -400,6 +401,7 @@ A repo for all LeetCode probems solved !
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/aryanshaw616/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3678-design-task-manager](https://github.com/aryanshaw616/LeetCode/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/aryanshaw616/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/aryanshaw616/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## String
 |  |
 | ------- |
@@ -543,6 +545,7 @@ A repo for all LeetCode probems solved !
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aryanshaw616/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/aryanshaw616/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/aryanshaw616/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/aryanshaw616/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -846,12 +849,14 @@ A repo for all LeetCode probems solved !
 | [3001-apply-operations-to-maximize-score](https://github.com/aryanshaw616/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/aryanshaw616/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3447-clear-digits](https://github.com/aryanshaw616/LeetCode/tree/master/3447-clear-digits) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/aryanshaw616/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/aryanshaw616/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [3001-apply-operations-to-maximize-score](https://github.com/aryanshaw616/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/aryanshaw616/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/aryanshaw616/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Backtracking
 |  |
 | ------- |
