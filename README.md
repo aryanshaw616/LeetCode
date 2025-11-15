@@ -965,4 +965,8 @@ A repo for all LeetCode probems solved !
 |  |
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/aryanshaw616/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aryanshaw616/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
