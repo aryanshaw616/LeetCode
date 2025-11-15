@@ -29,6 +29,7 @@ A repo for all LeetCode probems solved !
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aryanshaw616/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0318-maximum-product-of-word-lengths](https://github.com/aryanshaw616/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/aryanshaw616/LeetCode/tree/master/0322-coin-change) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/aryanshaw616/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0407-trapping-rain-water-ii](https://github.com/aryanshaw616/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/aryanshaw616/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/aryanshaw616/LeetCode/tree/master/0494-target-sum) |
@@ -237,6 +238,7 @@ A repo for all LeetCode probems solved !
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/aryanshaw616/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0407-trapping-rain-water-ii](https://github.com/aryanshaw616/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0420-strong-password-checker](https://github.com/aryanshaw616/LeetCode/tree/master/0420-strong-password-checker) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/aryanshaw616/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
