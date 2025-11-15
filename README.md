@@ -71,6 +71,7 @@ A repo for all LeetCode probems solved !
 | [1656-count-good-triplets](https://github.com/aryanshaw616/LeetCode/tree/master/1656-count-good-triplets) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/aryanshaw616/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/aryanshaw616/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/aryanshaw616/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/aryanshaw616/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1848-sum-of-unique-elements](https://github.com/aryanshaw616/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1876-map-of-highest-peak](https://github.com/aryanshaw616/LeetCode/tree/master/1876-map-of-highest-peak) |
@@ -223,6 +224,7 @@ A repo for all LeetCode probems solved !
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/aryanshaw616/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/aryanshaw616/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/aryanshaw616/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/aryanshaw616/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/aryanshaw616/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -514,6 +516,7 @@ A repo for all LeetCode probems solved !
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/aryanshaw616/LeetCode/tree/master/0498-diagonal-traverse) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/aryanshaw616/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/aryanshaw616/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/aryanshaw616/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/aryanshaw616/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -854,6 +857,7 @@ A repo for all LeetCode probems solved !
 | [0150-evaluate-reverse-polish-notation](https://github.com/aryanshaw616/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/aryanshaw616/LeetCode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/aryanshaw616/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/aryanshaw616/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/aryanshaw616/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/aryanshaw616/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/aryanshaw616/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
