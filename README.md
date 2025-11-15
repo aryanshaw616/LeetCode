@@ -36,6 +36,7 @@ A repo for all LeetCode probems solved !
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanshaw616/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/aryanshaw616/LeetCode/tree/master/0645-set-mismatch) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/aryanshaw616/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0739-daily-temperatures](https://github.com/aryanshaw616/LeetCode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/aryanshaw616/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/aryanshaw616/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/aryanshaw616/LeetCode/tree/master/0787-sliding-puzzle) |
@@ -851,6 +852,7 @@ A repo for all LeetCode probems solved !
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aryanshaw616/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0739-daily-temperatures](https://github.com/aryanshaw616/LeetCode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/aryanshaw616/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/aryanshaw616/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/aryanshaw616/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -863,6 +865,7 @@ A repo for all LeetCode probems solved !
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/aryanshaw616/LeetCode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/aryanshaw616/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [3001-apply-operations-to-maximize-score](https://github.com/aryanshaw616/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/aryanshaw616/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
