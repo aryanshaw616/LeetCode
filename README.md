@@ -224,6 +224,7 @@ A repo for all LeetCode probems solved !
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/aryanshaw616/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/aryanshaw616/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/aryanshaw616/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/aryanshaw616/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -622,6 +623,7 @@ A repo for all LeetCode probems solved !
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/aryanshaw616/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0817-design-hashmap](https://github.com/aryanshaw616/LeetCode/tree/master/0817-design-hashmap) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aryanshaw616/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/aryanshaw616/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -858,6 +860,7 @@ A repo for all LeetCode probems solved !
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aryanshaw616/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0232-implement-queue-using-stacks](https://github.com/aryanshaw616/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/aryanshaw616/LeetCode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/aryanshaw616/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/aryanshaw616/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
