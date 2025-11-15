@@ -62,6 +62,7 @@ A repo for all LeetCode probems solved !
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/aryanshaw616/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/aryanshaw616/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/aryanshaw616/LeetCode/tree/master/1524-string-matching-in-an-array) |
+| [1580-shuffle-the-array](https://github.com/aryanshaw616/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/aryanshaw616/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aryanshaw616/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/aryanshaw616/LeetCode/tree/master/1656-count-good-triplets) |
