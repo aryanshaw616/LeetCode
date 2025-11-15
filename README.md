@@ -426,6 +426,7 @@ A repo for all LeetCode probems solved !
 | [0345-reverse-vowels-of-a-string](https://github.com/aryanshaw616/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0420-strong-password-checker](https://github.com/aryanshaw616/LeetCode/tree/master/0420-strong-password-checker) |
 | [0516-longest-palindromic-subsequence](https://github.com/aryanshaw616/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
+| [0520-detect-capital](https://github.com/aryanshaw616/LeetCode/tree/master/0520-detect-capital) |
 | [0768-partition-labels](https://github.com/aryanshaw616/LeetCode/tree/master/0768-partition-labels) |
 | [0851-goat-latin](https://github.com/aryanshaw616/LeetCode/tree/master/0851-goat-latin) |
 | [0868-push-dominoes](https://github.com/aryanshaw616/LeetCode/tree/master/0868-push-dominoes) |
