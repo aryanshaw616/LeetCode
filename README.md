@@ -21,6 +21,7 @@ A repo for all LeetCode probems solved !
 | [0119-pascals-triangle-ii](https://github.com/aryanshaw616/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/aryanshaw616/LeetCode/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/aryanshaw616/LeetCode/tree/master/0135-candy) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aryanshaw616/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aryanshaw616/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/aryanshaw616/LeetCode/tree/master/0164-maximum-gap) |
 | [0198-house-robber](https://github.com/aryanshaw616/LeetCode/tree/master/0198-house-robber) |
@@ -730,6 +731,7 @@ A repo for all LeetCode probems solved !
 | ------- |
 | [0069-sqrtx](https://github.com/aryanshaw616/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/aryanshaw616/LeetCode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aryanshaw616/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/aryanshaw616/LeetCode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/aryanshaw616/LeetCode/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/aryanshaw616/LeetCode/tree/master/0342-power-of-four) |
@@ -848,6 +850,7 @@ A repo for all LeetCode probems solved !
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aryanshaw616/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0780-max-chunks-to-make-sorted](https://github.com/aryanshaw616/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/aryanshaw616/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/aryanshaw616/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
