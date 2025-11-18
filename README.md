@@ -37,6 +37,7 @@ A repo for all LeetCode probems solved !
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanshaw616/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/aryanshaw616/LeetCode/tree/master/0645-set-mismatch) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/aryanshaw616/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/aryanshaw616/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0739-daily-temperatures](https://github.com/aryanshaw616/LeetCode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/aryanshaw616/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/aryanshaw616/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
