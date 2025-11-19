@@ -100,6 +100,7 @@ A repo for all LeetCode probems solved !
 | [2232-adding-spaces-to-a-string](https://github.com/aryanshaw616/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2249-count-the-hidden-sequences](https://github.com/aryanshaw616/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/aryanshaw616/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/aryanshaw616/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2280-count-good-triplets-in-an-array](https://github.com/aryanshaw616/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/aryanshaw616/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/aryanshaw616/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -389,6 +390,7 @@ A repo for all LeetCode probems solved !
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/aryanshaw616/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2215-finding-3-digit-even-numbers](https://github.com/aryanshaw616/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/aryanshaw616/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/aryanshaw616/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2300-construct-string-with-repeat-limit](https://github.com/aryanshaw616/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/aryanshaw616/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2434-design-a-number-container-system](https://github.com/aryanshaw616/LeetCode/tree/master/2434-design-a-number-container-system) |
@@ -530,6 +532,7 @@ A repo for all LeetCode probems solved !
 | [2058-concatenation-of-array](https://github.com/aryanshaw616/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/aryanshaw616/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2232-adding-spaces-to-a-string](https://github.com/aryanshaw616/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/aryanshaw616/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/aryanshaw616/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/aryanshaw616/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/aryanshaw616/LeetCode/tree/master/2479-meeting-rooms-iii) |
@@ -724,6 +727,7 @@ A repo for all LeetCode probems solved !
 | [2164-two-best-non-overlapping-events](https://github.com/aryanshaw616/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/aryanshaw616/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/aryanshaw616/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/aryanshaw616/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/aryanshaw616/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/aryanshaw616/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/aryanshaw616/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
