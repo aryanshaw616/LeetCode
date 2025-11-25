@@ -369,6 +369,7 @@ A repo for all LeetCode probems solved !
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/aryanshaw616/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/aryanshaw616/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/aryanshaw616/LeetCode/tree/master/0952-word-subsets) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/aryanshaw616/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aryanshaw616/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/aryanshaw616/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/aryanshaw616/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -759,6 +760,7 @@ A repo for all LeetCode probems solved !
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanshaw616/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/aryanshaw616/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0797-rabbits-in-forest](https://github.com/aryanshaw616/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/aryanshaw616/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aryanshaw616/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/aryanshaw616/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/aryanshaw616/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
