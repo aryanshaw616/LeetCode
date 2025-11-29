@@ -13,6 +13,7 @@ A repo for all LeetCode probems solved !
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aryanshaw616/LeetCode/tree/master/0001-two-sum) |
 | [0051-n-queens](https://github.com/aryanshaw616/LeetCode/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/aryanshaw616/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aryanshaw616/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -359,6 +360,7 @@ A repo for all LeetCode probems solved !
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aryanshaw616/LeetCode/tree/master/0001-two-sum) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aryanshaw616/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0141-linked-list-cycle](https://github.com/aryanshaw616/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aryanshaw616/LeetCode/tree/master/0142-linked-list-cycle-ii) |
