@@ -69,6 +69,7 @@ A repo for all LeetCode probems solved !
 | [1510-find-lucky-integer-in-an-array](https://github.com/aryanshaw616/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/aryanshaw616/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/aryanshaw616/LeetCode/tree/master/1580-shuffle-the-array) |
+| [1590-make-sum-divisible-by-p](https://github.com/aryanshaw616/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/aryanshaw616/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aryanshaw616/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/aryanshaw616/LeetCode/tree/master/1656-count-good-triplets) |
@@ -274,6 +275,7 @@ A repo for all LeetCode probems solved !
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/aryanshaw616/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/aryanshaw616/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/aryanshaw616/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1590-make-sum-divisible-by-p](https://github.com/aryanshaw616/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aryanshaw616/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aryanshaw616/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/aryanshaw616/LeetCode/tree/master/2145-grid-game) |
@@ -386,6 +388,7 @@ A repo for all LeetCode probems solved !
 | [1500-count-largest-group](https://github.com/aryanshaw616/LeetCode/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/aryanshaw616/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/aryanshaw616/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1590-make-sum-divisible-by-p](https://github.com/aryanshaw616/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/aryanshaw616/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1848-sum-of-unique-elements](https://github.com/aryanshaw616/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/aryanshaw616/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
