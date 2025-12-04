@@ -162,6 +162,7 @@ A repo for all LeetCode probems solved !
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/aryanshaw616/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/aryanshaw616/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aryanshaw616/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3643-zero-array-transformation-ii) |
@@ -423,6 +424,7 @@ A repo for all LeetCode probems solved !
 | [3548-find-the-count-of-good-integers](https://github.com/aryanshaw616/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aryanshaw616/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/aryanshaw616/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3678-design-task-manager](https://github.com/aryanshaw616/LeetCode/tree/master/3678-design-task-manager) |
@@ -793,6 +795,7 @@ A repo for all LeetCode probems solved !
 | [3548-find-the-count-of-good-integers](https://github.com/aryanshaw616/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/aryanshaw616/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aryanshaw616/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/aryanshaw616/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/aryanshaw616/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -1000,6 +1003,7 @@ A repo for all LeetCode probems solved !
 |  |
 | ------- |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/aryanshaw616/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Bitmask
 |  |
 | ------- |
