@@ -161,6 +161,7 @@ A repo for all LeetCode probems solved !
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/aryanshaw616/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/aryanshaw616/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/aryanshaw616/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/aryanshaw616/LeetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aryanshaw616/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -698,6 +699,7 @@ A repo for all LeetCode probems solved !
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aryanshaw616/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/aryanshaw616/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/aryanshaw616/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/aryanshaw616/LeetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Depth-First Search
 |  |
