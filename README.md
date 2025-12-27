@@ -111,6 +111,7 @@ A repo for all LeetCode probems solved !
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/aryanshaw616/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/aryanshaw616/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aryanshaw616/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2402-meeting-rooms-iii](https://github.com/aryanshaw616/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2448-count-number-of-bad-pairs](https://github.com/aryanshaw616/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/aryanshaw616/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/aryanshaw616/LeetCode/tree/master/2479-meeting-rooms-iii) |
@@ -257,6 +258,7 @@ A repo for all LeetCode probems solved !
 | [2164-two-best-non-overlapping-events](https://github.com/aryanshaw616/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/aryanshaw616/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/aryanshaw616/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2402-meeting-rooms-iii](https://github.com/aryanshaw616/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2434-design-a-number-container-system](https://github.com/aryanshaw616/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/aryanshaw616/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/aryanshaw616/LeetCode/tree/master/2479-meeting-rooms-iii) |
@@ -404,6 +406,7 @@ A repo for all LeetCode probems solved !
 | [2274-keep-multiplying-found-values-by-two](https://github.com/aryanshaw616/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2300-construct-string-with-repeat-limit](https://github.com/aryanshaw616/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/aryanshaw616/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2402-meeting-rooms-iii](https://github.com/aryanshaw616/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2434-design-a-number-container-system](https://github.com/aryanshaw616/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/aryanshaw616/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/aryanshaw616/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -547,6 +550,7 @@ A repo for all LeetCode probems solved !
 | [2232-adding-spaces-to-a-string](https://github.com/aryanshaw616/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/aryanshaw616/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/aryanshaw616/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2402-meeting-rooms-iii](https://github.com/aryanshaw616/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/aryanshaw616/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/aryanshaw616/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/aryanshaw616/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -744,6 +748,7 @@ A repo for all LeetCode probems solved !
 | [2274-keep-multiplying-found-values-by-two](https://github.com/aryanshaw616/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/aryanshaw616/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/aryanshaw616/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2402-meeting-rooms-iii](https://github.com/aryanshaw616/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/aryanshaw616/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/aryanshaw616/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/aryanshaw616/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
