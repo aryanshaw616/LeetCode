@@ -50,6 +50,7 @@ A repo for all LeetCode probems solved !
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/aryanshaw616/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/aryanshaw616/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/aryanshaw616/LeetCode/tree/master/0952-word-subsets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/aryanshaw616/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/aryanshaw616/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/aryanshaw616/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aryanshaw616/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -379,6 +380,7 @@ A repo for all LeetCode probems solved !
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/aryanshaw616/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/aryanshaw616/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/aryanshaw616/LeetCode/tree/master/0952-word-subsets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/aryanshaw616/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/aryanshaw616/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aryanshaw616/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/aryanshaw616/LeetCode/tree/master/1160-letter-tile-possibilities) |
