@@ -60,6 +60,7 @@ A repo for all LeetCode probems solved !
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/aryanshaw616/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/aryanshaw616/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/aryanshaw616/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [1390-four-divisors](https://github.com/aryanshaw616/LeetCode/tree/master/1390-four-divisors) |
 | [1396-count-servers-that-communicate](https://github.com/aryanshaw616/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aryanshaw616/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/aryanshaw616/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -780,6 +781,7 @@ A repo for all LeetCode probems solved !
 | [0728-self-dividing-numbers](https://github.com/aryanshaw616/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0797-rabbits-in-forest](https://github.com/aryanshaw616/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/aryanshaw616/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1390-four-divisors](https://github.com/aryanshaw616/LeetCode/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aryanshaw616/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/aryanshaw616/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/aryanshaw616/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
