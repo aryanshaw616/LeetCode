@@ -159,6 +159,7 @@ A repo for all LeetCode probems solved !
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/aryanshaw616/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3429-special-array-i](https://github.com/aryanshaw616/LeetCode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/aryanshaw616/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3454-separate-squares-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aryanshaw616/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aryanshaw616/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -232,6 +233,7 @@ A repo for all LeetCode probems solved !
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/aryanshaw616/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/aryanshaw616/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aryanshaw616/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3454-separate-squares-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Queue
@@ -351,6 +353,7 @@ A repo for all LeetCode probems solved !
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aryanshaw616/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2280-count-good-triplets-in-an-array](https://github.com/aryanshaw616/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/aryanshaw616/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3454-separate-squares-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/aryanshaw616/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Merge Sort
 |  |
@@ -1031,4 +1034,8 @@ A repo for all LeetCode probems solved !
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aryanshaw616/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
