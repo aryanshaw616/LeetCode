@@ -152,6 +152,7 @@ A repo for all LeetCode probems solved !
 | [3227-find-missing-and-repeated-values](https://github.com/aryanshaw616/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/aryanshaw616/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/aryanshaw616/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3321-type-of-triangle](https://github.com/aryanshaw616/LeetCode/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/aryanshaw616/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -521,6 +522,7 @@ A repo for all LeetCode probems solved !
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/aryanshaw616/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/aryanshaw616/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/aryanshaw616/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/aryanshaw616/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aryanshaw616/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/aryanshaw616/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
