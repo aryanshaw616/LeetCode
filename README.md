@@ -455,6 +455,7 @@ A repo for all LeetCode probems solved !
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aryanshaw616/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/aryanshaw616/LeetCode/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/aryanshaw616/LeetCode/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/aryanshaw616/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0187-repeated-dna-sequences](https://github.com/aryanshaw616/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0318-maximum-product-of-word-lengths](https://github.com/aryanshaw616/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
@@ -519,6 +520,7 @@ A repo for all LeetCode probems solved !
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/aryanshaw616/LeetCode/tree/master/0067-add-binary) |
 | [0187-repeated-dna-sequences](https://github.com/aryanshaw616/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/aryanshaw616/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/aryanshaw616/LeetCode/tree/master/0231-power-of-two) |
@@ -563,6 +565,7 @@ A repo for all LeetCode probems solved !
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/aryanshaw616/LeetCode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/aryanshaw616/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/aryanshaw616/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/aryanshaw616/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -796,6 +799,7 @@ A repo for all LeetCode probems solved !
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/aryanshaw616/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/aryanshaw616/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/aryanshaw616/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aryanshaw616/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
