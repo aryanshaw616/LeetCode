@@ -325,6 +325,7 @@ A repo for all LeetCode probems solved !
 | [0165-compare-version-numbers](https://github.com/aryanshaw616/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0283-move-zeroes](https://github.com/aryanshaw616/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aryanshaw616/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0696-count-binary-substrings](https://github.com/aryanshaw616/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/aryanshaw616/LeetCode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/aryanshaw616/LeetCode/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/aryanshaw616/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -465,6 +466,7 @@ A repo for all LeetCode probems solved !
 | [0482-license-key-formatting](https://github.com/aryanshaw616/LeetCode/tree/master/0482-license-key-formatting) |
 | [0516-longest-palindromic-subsequence](https://github.com/aryanshaw616/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/aryanshaw616/LeetCode/tree/master/0520-detect-capital) |
+| [0696-count-binary-substrings](https://github.com/aryanshaw616/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/aryanshaw616/LeetCode/tree/master/0768-partition-labels) |
 | [0851-goat-latin](https://github.com/aryanshaw616/LeetCode/tree/master/0851-goat-latin) |
 | [0868-push-dominoes](https://github.com/aryanshaw616/LeetCode/tree/master/0868-push-dominoes) |
