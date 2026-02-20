@@ -300,6 +300,7 @@ A repo for all LeetCode probems solved !
 | [2249-count-the-hidden-sequences](https://github.com/aryanshaw616/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/aryanshaw616/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aryanshaw616/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2485-find-the-pivot-integer](https://github.com/aryanshaw616/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/aryanshaw616/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/aryanshaw616/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/aryanshaw616/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
@@ -826,6 +827,7 @@ A repo for all LeetCode probems solved !
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/aryanshaw616/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/aryanshaw616/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/aryanshaw616/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2485-find-the-pivot-integer](https://github.com/aryanshaw616/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2610-closest-prime-numbers-in-range](https://github.com/aryanshaw616/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/aryanshaw616/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/aryanshaw616/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
