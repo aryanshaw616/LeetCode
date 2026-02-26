@@ -480,6 +480,7 @@ A repo for all LeetCode probems solved !
 | [1250-longest-common-subsequence](https://github.com/aryanshaw616/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/aryanshaw616/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/aryanshaw616/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aryanshaw616/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aryanshaw616/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/aryanshaw616/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aryanshaw616/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -532,6 +533,7 @@ A repo for all LeetCode probems solved !
 | [0342-power-of-four](https://github.com/aryanshaw616/LeetCode/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aryanshaw616/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/aryanshaw616/LeetCode/tree/master/0645-set-mismatch) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aryanshaw616/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aryanshaw616/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/aryanshaw616/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/aryanshaw616/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -571,6 +573,7 @@ A repo for all LeetCode probems solved !
 | ------- |
 | [0067-add-binary](https://github.com/aryanshaw616/LeetCode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/aryanshaw616/LeetCode/tree/master/0498-diagonal-traverse) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aryanshaw616/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/aryanshaw616/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/aryanshaw616/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/aryanshaw616/LeetCode/tree/master/2058-concatenation-of-array) |
