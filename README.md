@@ -379,6 +379,7 @@ A repo for all LeetCode probems solved !
 | [2280-count-good-triplets-in-an-array](https://github.com/aryanshaw616/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/aryanshaw616/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/aryanshaw616/LeetCode/tree/master/2868-continuous-subarrays) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/aryanshaw616/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3678-design-task-manager](https://github.com/aryanshaw616/LeetCode/tree/master/3678-design-task-manager) |
 ## Hash Table
 |  |
@@ -520,6 +521,7 @@ A repo for all LeetCode probems solved !
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/aryanshaw616/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/aryanshaw616/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/aryanshaw616/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Bit Manipulation
@@ -644,6 +646,7 @@ A repo for all LeetCode probems solved !
 | [2793-count-the-number-of-complete-components](https://github.com/aryanshaw616/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/aryanshaw616/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/aryanshaw616/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/aryanshaw616/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Graph
 |  |
 | ------- |
@@ -847,6 +850,7 @@ A repo for all LeetCode probems solved !
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aryanshaw616/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/aryanshaw616/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/aryanshaw616/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/aryanshaw616/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Tree
@@ -1080,4 +1084,8 @@ A repo for all LeetCode probems solved !
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/aryanshaw616/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/aryanshaw616/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Union-Find
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/aryanshaw616/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
