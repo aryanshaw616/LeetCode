@@ -536,6 +536,7 @@ A repo for all LeetCode probems solved !
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aryanshaw616/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/aryanshaw616/LeetCode/tree/master/0645-set-mismatch) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aryanshaw616/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/aryanshaw616/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aryanshaw616/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/aryanshaw616/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/aryanshaw616/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -576,6 +577,7 @@ A repo for all LeetCode probems solved !
 | [0067-add-binary](https://github.com/aryanshaw616/LeetCode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/aryanshaw616/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aryanshaw616/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/aryanshaw616/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/aryanshaw616/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/aryanshaw616/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/aryanshaw616/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -828,6 +830,7 @@ A repo for all LeetCode probems solved !
 | [1477-product-of-the-last-k-numbers](https://github.com/aryanshaw616/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/aryanshaw616/LeetCode/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aryanshaw616/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/aryanshaw616/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/aryanshaw616/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2050-count-good-numbers](https://github.com/aryanshaw616/LeetCode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/aryanshaw616/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
