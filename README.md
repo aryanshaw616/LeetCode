@@ -487,6 +487,7 @@ A repo for all LeetCode probems solved !
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aryanshaw616/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/aryanshaw616/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/aryanshaw616/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/aryanshaw616/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/aryanshaw616/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aryanshaw616/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/aryanshaw616/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -577,6 +578,7 @@ A repo for all LeetCode probems solved !
 | [0067-add-binary](https://github.com/aryanshaw616/LeetCode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/aryanshaw616/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aryanshaw616/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/aryanshaw616/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/aryanshaw616/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/aryanshaw616/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/aryanshaw616/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -913,6 +915,7 @@ A repo for all LeetCode probems solved !
 | [0206-reverse-linked-list](https://github.com/aryanshaw616/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/aryanshaw616/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/aryanshaw616/LeetCode/tree/master/0342-power-of-four) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/aryanshaw616/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/aryanshaw616/LeetCode/tree/master/2050-count-good-numbers) |
 ## Counting
 |  |
