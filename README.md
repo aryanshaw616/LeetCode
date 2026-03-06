@@ -491,6 +491,7 @@ A repo for all LeetCode probems solved !
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/aryanshaw616/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aryanshaw616/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/aryanshaw616/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/aryanshaw616/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/aryanshaw616/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/aryanshaw616/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/aryanshaw616/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
