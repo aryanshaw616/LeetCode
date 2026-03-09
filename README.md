@@ -304,6 +304,7 @@ A repo for all LeetCode probems solved !
 | [2618-maximize-the-minimum-powered-city](https://github.com/aryanshaw616/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/aryanshaw616/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/aryanshaw616/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/aryanshaw616/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/aryanshaw616/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aryanshaw616/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -744,6 +745,7 @@ A repo for all LeetCode probems solved !
 | [2415-count-the-number-of-ideal-arrays](https://github.com/aryanshaw616/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2562-count-ways-to-build-good-strings](https://github.com/aryanshaw616/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/aryanshaw616/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/aryanshaw616/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aryanshaw616/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/aryanshaw616/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/aryanshaw616/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
