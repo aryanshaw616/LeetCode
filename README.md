@@ -363,6 +363,7 @@ A repo for all LeetCode probems solved !
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aryanshaw616/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [1622-fancy-sequence](https://github.com/aryanshaw616/LeetCode/tree/master/1622-fancy-sequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/aryanshaw616/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/aryanshaw616/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3454-separate-squares-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3454-separate-squares-ii) |
@@ -693,6 +694,7 @@ A repo for all LeetCode probems solved !
 | [0817-design-hashmap](https://github.com/aryanshaw616/LeetCode/tree/master/0817-design-hashmap) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aryanshaw616/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/aryanshaw616/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1622-fancy-sequence](https://github.com/aryanshaw616/LeetCode/tree/master/1622-fancy-sequence) |
 | [2023-design-movie-rental-system](https://github.com/aryanshaw616/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2434-design-a-number-container-system](https://github.com/aryanshaw616/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/aryanshaw616/LeetCode/tree/master/3678-design-task-manager) |
@@ -834,6 +836,7 @@ A repo for all LeetCode probems solved !
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/aryanshaw616/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/aryanshaw616/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/aryanshaw616/LeetCode/tree/master/1500-count-largest-group) |
+| [1622-fancy-sequence](https://github.com/aryanshaw616/LeetCode/tree/master/1622-fancy-sequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aryanshaw616/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/aryanshaw616/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/aryanshaw616/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
