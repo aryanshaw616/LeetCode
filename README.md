@@ -147,6 +147,7 @@ A repo for all LeetCode probems solved !
 | [3001-apply-operations-to-maximize-score](https://github.com/aryanshaw616/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/aryanshaw616/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/aryanshaw616/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aryanshaw616/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/aryanshaw616/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -304,6 +305,7 @@ A repo for all LeetCode probems solved !
 | [2618-maximize-the-minimum-powered-city](https://github.com/aryanshaw616/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/aryanshaw616/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/aryanshaw616/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/aryanshaw616/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/aryanshaw616/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/aryanshaw616/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aryanshaw616/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -573,6 +575,7 @@ A repo for all LeetCode probems solved !
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/aryanshaw616/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/aryanshaw616/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/aryanshaw616/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/aryanshaw616/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3227-find-missing-and-repeated-values](https://github.com/aryanshaw616/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Simulation
