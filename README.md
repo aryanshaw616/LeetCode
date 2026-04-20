@@ -91,6 +91,7 @@ A repo for all LeetCode probems solved !
 | [1972-rotating-the-box](https://github.com/aryanshaw616/LeetCode/tree/master/1972-rotating-the-box) |
 | [2023-design-movie-rental-system](https://github.com/aryanshaw616/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2058-concatenation-of-array](https://github.com/aryanshaw616/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/aryanshaw616/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/aryanshaw616/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2089-maximum-matrix-sum](https://github.com/aryanshaw616/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/aryanshaw616/LeetCode/tree/master/2107-find-unique-binary-string) |
@@ -620,6 +621,7 @@ A repo for all LeetCode probems solved !
 | [1612-avoid-flood-in-the-city](https://github.com/aryanshaw616/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/aryanshaw616/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1917-maximum-average-pass-ratio](https://github.com/aryanshaw616/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/aryanshaw616/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-maximum-matrix-sum](https://github.com/aryanshaw616/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/aryanshaw616/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/aryanshaw616/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
