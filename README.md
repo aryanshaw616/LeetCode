@@ -397,6 +397,7 @@ A repo for all LeetCode probems solved !
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aryanshaw616/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0141-linked-list-cycle](https://github.com/aryanshaw616/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aryanshaw616/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/aryanshaw616/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aryanshaw616/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/aryanshaw616/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0645-set-mismatch](https://github.com/aryanshaw616/LeetCode/tree/master/0645-set-mismatch) |
@@ -693,6 +694,7 @@ A repo for all LeetCode probems solved !
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aryanshaw616/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/aryanshaw616/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aryanshaw616/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/aryanshaw616/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aryanshaw616/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/aryanshaw616/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0817-design-hashmap](https://github.com/aryanshaw616/LeetCode/tree/master/0817-design-hashmap) |
@@ -702,6 +704,7 @@ A repo for all LeetCode probems solved !
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/aryanshaw616/LeetCode/tree/master/0146-lru-cache) |
 | [0232-implement-queue-using-stacks](https://github.com/aryanshaw616/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0817-design-hashmap](https://github.com/aryanshaw616/LeetCode/tree/master/0817-design-hashmap) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aryanshaw616/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -1117,4 +1120,8 @@ A repo for all LeetCode probems solved !
 |  |
 | ------- |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/aryanshaw616/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/aryanshaw616/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
