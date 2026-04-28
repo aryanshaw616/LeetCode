@@ -90,6 +90,7 @@ A repo for all LeetCode probems solved !
 | [1927-maximum-ascending-subarray-sum](https://github.com/aryanshaw616/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1972-rotating-the-box](https://github.com/aryanshaw616/LeetCode/tree/master/1972-rotating-the-box) |
 | [2023-design-movie-rental-system](https://github.com/aryanshaw616/LeetCode/tree/master/2023-design-movie-rental-system) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/aryanshaw616/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2058-concatenation-of-array](https://github.com/aryanshaw616/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/aryanshaw616/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/aryanshaw616/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -572,6 +573,7 @@ A repo for all LeetCode probems solved !
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/aryanshaw616/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/aryanshaw616/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/aryanshaw616/LeetCode/tree/master/1972-rotating-the-box) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/aryanshaw616/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2089-maximum-matrix-sum](https://github.com/aryanshaw616/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/aryanshaw616/LeetCode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/aryanshaw616/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -803,6 +805,7 @@ A repo for all LeetCode probems solved !
 | [1468-check-if-n-and-its-double-exist](https://github.com/aryanshaw616/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aryanshaw616/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/aryanshaw616/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/aryanshaw616/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/aryanshaw616/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/aryanshaw616/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/aryanshaw616/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -852,6 +855,7 @@ A repo for all LeetCode probems solved !
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aryanshaw616/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/aryanshaw616/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/aryanshaw616/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/aryanshaw616/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2050-count-good-numbers](https://github.com/aryanshaw616/LeetCode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/aryanshaw616/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/aryanshaw616/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
