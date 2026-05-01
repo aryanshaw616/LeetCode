@@ -32,6 +32,7 @@ A repo for all LeetCode probems solved !
 | [0318-maximum-product-of-word-lengths](https://github.com/aryanshaw616/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/aryanshaw616/LeetCode/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/aryanshaw616/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0396-rotate-function](https://github.com/aryanshaw616/LeetCode/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/aryanshaw616/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/aryanshaw616/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/aryanshaw616/LeetCode/tree/master/0494-target-sum) |
@@ -740,6 +741,7 @@ A repo for all LeetCode probems solved !
 | [0120-triangle](https://github.com/aryanshaw616/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/aryanshaw616/LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/aryanshaw616/LeetCode/tree/master/0322-coin-change) |
+| [0396-rotate-function](https://github.com/aryanshaw616/LeetCode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/aryanshaw616/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/aryanshaw616/LeetCode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/aryanshaw616/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
@@ -844,6 +846,7 @@ A repo for all LeetCode probems solved !
 | [0231-power-of-two](https://github.com/aryanshaw616/LeetCode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/aryanshaw616/LeetCode/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/aryanshaw616/LeetCode/tree/master/0342-power-of-four) |
+| [0396-rotate-function](https://github.com/aryanshaw616/LeetCode/tree/master/0396-rotate-function) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aryanshaw616/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanshaw616/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/aryanshaw616/LeetCode/tree/master/0728-self-dividing-numbers) |
