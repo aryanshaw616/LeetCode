@@ -483,6 +483,7 @@ A repo for all LeetCode probems solved !
 | [0520-detect-capital](https://github.com/aryanshaw616/LeetCode/tree/master/0520-detect-capital) |
 | [0696-count-binary-substrings](https://github.com/aryanshaw616/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/aryanshaw616/LeetCode/tree/master/0768-partition-labels) |
+| [0796-rotate-string](https://github.com/aryanshaw616/LeetCode/tree/master/0796-rotate-string) |
 | [0851-goat-latin](https://github.com/aryanshaw616/LeetCode/tree/master/0851-goat-latin) |
 | [0868-push-dominoes](https://github.com/aryanshaw616/LeetCode/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/aryanshaw616/LeetCode/tree/master/0952-word-subsets) |
@@ -933,6 +934,7 @@ A repo for all LeetCode probems solved !
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/aryanshaw616/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/aryanshaw616/LeetCode/tree/master/0796-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/aryanshaw616/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/aryanshaw616/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/aryanshaw616/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
