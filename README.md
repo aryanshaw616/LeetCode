@@ -14,6 +14,7 @@ A repo for all LeetCode probems solved !
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aryanshaw616/LeetCode/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/aryanshaw616/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/aryanshaw616/LeetCode/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/aryanshaw616/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aryanshaw616/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -566,6 +567,7 @@ A repo for all LeetCode probems solved !
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/aryanshaw616/LeetCode/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/aryanshaw616/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/aryanshaw616/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/aryanshaw616/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -840,6 +842,7 @@ A repo for all LeetCode probems solved !
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/aryanshaw616/LeetCode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/aryanshaw616/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/aryanshaw616/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/aryanshaw616/LeetCode/tree/master/0070-climbing-stairs) |
