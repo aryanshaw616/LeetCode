@@ -1,6 +1,5 @@
 class Solution {
     public int findMin(int[] nums) {
-      int k = Arrays.stream(nums).min().getAsInt();
-        return k;
+        return Arrays.stream(nums).min().getAsInt();
     }
 }
