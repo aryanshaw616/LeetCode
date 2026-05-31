@@ -24,6 +24,7 @@ A repo for all LeetCode probems solved !
 | [0118-pascals-triangle](https://github.com/aryanshaw616/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aryanshaw616/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/aryanshaw616/LeetCode/tree/master/0120-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/aryanshaw616/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/aryanshaw616/LeetCode/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aryanshaw616/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aryanshaw616/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -410,6 +411,7 @@ A repo for all LeetCode probems solved !
 | ------- |
 | [0001-two-sum](https://github.com/aryanshaw616/LeetCode/tree/master/0001-two-sum) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aryanshaw616/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0128-longest-consecutive-sequence](https://github.com/aryanshaw616/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/aryanshaw616/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aryanshaw616/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/aryanshaw616/LeetCode/tree/master/0146-lru-cache) |
@@ -1150,6 +1152,7 @@ A repo for all LeetCode probems solved !
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/aryanshaw616/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/aryanshaw616/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Doubly-Linked List
 |  |
