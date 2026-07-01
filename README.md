@@ -152,6 +152,7 @@ A repo for all LeetCode probems solved !
 | [2751-robot-collisions](https://github.com/aryanshaw616/LeetCode/tree/master/2751-robot-collisions) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/aryanshaw616/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/aryanshaw616/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/aryanshaw616/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/aryanshaw616/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/aryanshaw616/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/aryanshaw616/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -262,6 +263,7 @@ A repo for all LeetCode probems solved !
 | [2665-minimum-time-to-repair-cars](https://github.com/aryanshaw616/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/aryanshaw616/LeetCode/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/aryanshaw616/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/aryanshaw616/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/aryanshaw616/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/aryanshaw616/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/aryanshaw616/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -305,6 +307,7 @@ A repo for all LeetCode probems solved !
 | [2692-take-gifts-from-the-richest-pile](https://github.com/aryanshaw616/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/aryanshaw616/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/aryanshaw616/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/aryanshaw616/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/aryanshaw616/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/aryanshaw616/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -623,6 +626,7 @@ A repo for all LeetCode probems solved !
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/aryanshaw616/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/aryanshaw616/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/aryanshaw616/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/aryanshaw616/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/aryanshaw616/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3227-find-missing-and-repeated-values](https://github.com/aryanshaw616/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/aryanshaw616/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -706,6 +710,7 @@ A repo for all LeetCode probems solved !
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/aryanshaw616/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/aryanshaw616/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/aryanshaw616/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/aryanshaw616/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/aryanshaw616/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/aryanshaw616/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/aryanshaw616/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -1176,6 +1181,7 @@ A repo for all LeetCode probems solved !
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/aryanshaw616/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/aryanshaw616/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/aryanshaw616/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Doubly-Linked List
 |  |
