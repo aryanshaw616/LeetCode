@@ -711,6 +711,7 @@ A repo for all LeetCode probems solved !
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/aryanshaw616/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/aryanshaw616/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/aryanshaw616/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2685-count-the-number-of-complete-components](https://github.com/aryanshaw616/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/aryanshaw616/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/aryanshaw616/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/aryanshaw616/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
@@ -845,6 +846,7 @@ A repo for all LeetCode probems solved !
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aryanshaw616/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/aryanshaw616/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/aryanshaw616/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/aryanshaw616/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/aryanshaw616/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/aryanshaw616/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/aryanshaw616/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -1181,6 +1183,7 @@ A repo for all LeetCode probems solved !
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aryanshaw616/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/aryanshaw616/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/aryanshaw616/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/aryanshaw616/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Union-Find
@@ -1188,6 +1191,7 @@ A repo for all LeetCode probems solved !
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/aryanshaw616/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aryanshaw616/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/aryanshaw616/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aryanshaw616/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/aryanshaw616/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Doubly-Linked List
