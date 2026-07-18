@@ -97,6 +97,7 @@ A repo for all LeetCode probems solved !
 | [1917-maximum-average-pass-ratio](https://github.com/aryanshaw616/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/aryanshaw616/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1972-rotating-the-box](https://github.com/aryanshaw616/LeetCode/tree/master/1972-rotating-the-box) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/aryanshaw616/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2023-design-movie-rental-system](https://github.com/aryanshaw616/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/aryanshaw616/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2043-simple-bank-system](https://github.com/aryanshaw616/LeetCode/tree/master/2043-simple-bank-system) |
@@ -919,6 +920,7 @@ A repo for all LeetCode probems solved !
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aryanshaw616/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/aryanshaw616/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/aryanshaw616/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/aryanshaw616/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/aryanshaw616/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2050-count-good-numbers](https://github.com/aryanshaw616/LeetCode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/aryanshaw616/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -1119,6 +1121,7 @@ A repo for all LeetCode probems solved !
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/aryanshaw616/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/aryanshaw616/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/aryanshaw616/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3001-apply-operations-to-maximize-score](https://github.com/aryanshaw616/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
